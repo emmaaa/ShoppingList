@@ -1,9 +1,9 @@
 package com.example.shoppinglist.list
 
-import com.example.shoppinglist.data.Item
+import com.example.shoppinglist.data.ShoppingListItem
 
 interface ShoppingListView {
 
-    fun renderItems(items: List<Item>?)
+    fun renderItems(items: List<ShoppingListItem>?)
 
 }

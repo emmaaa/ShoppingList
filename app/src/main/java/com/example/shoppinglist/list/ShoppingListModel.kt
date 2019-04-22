@@ -2,10 +2,10 @@ package com.example.shoppinglist.list
 
 import android.support.v7.widget.RecyclerView
 import android.view.ViewGroup
-import com.example.shoppinglist.data.Item
+import com.example.shoppinglist.data.ShoppingListItem
 
 class ShoppingListModel(
-    private val shoppingList: List<Item>
+    private val shoppingList: List<ShoppingListItem>
 ) : RecyclerView.Adapter<RecyclerView.ViewHolder>()  {
 
 
