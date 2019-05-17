@@ -1,4 +1,4 @@
-package com.example.shoppinglist
+package com.example.shoppingList
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

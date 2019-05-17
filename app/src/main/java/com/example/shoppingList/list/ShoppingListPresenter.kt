@@ -1,7 +1,7 @@
-package com.example.shoppinglist.list
+package com.example.shoppingList.list
 
-import com.example.shoppinglist.data.ItemProvider
-import com.example.shoppinglist.data.SchedulerProvider
+import com.example.shoppingList.data.ItemProvider
+import com.example.shoppingList.data.SchedulerProvider
 import io.reactivex.disposables.Disposable
 
 class ShoppingListPresenter(
